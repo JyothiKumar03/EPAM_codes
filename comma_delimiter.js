@@ -10,6 +10,5 @@ Output: String with comma delimited elements of the array in th same order.
 
 function printArray(array){
   var result = array.join(',');
-  return (result);
-  
+  return (result);  
 }
